@@ -166,9 +166,9 @@ footer {
         max-width: 300px;
         margin-bottom: 15px;
     }
-    .espaco-imagem {
-        width: 100%;
-        max-width: 300px;
-        margin-bottom: 15px;
+    .espaco-imagem img {
+        display: block;
+        max-width: 100%;
+        height: auto;
     }
 }
