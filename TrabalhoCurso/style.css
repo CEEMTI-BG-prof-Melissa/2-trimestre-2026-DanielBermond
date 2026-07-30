@@ -166,9 +166,12 @@ footer {
         max-width: 300px;
         margin-bottom: 15px;
     }
-    .espaco-imagem img {
+    .espaco-imagem {
         display: block;
+        margin: 0 auto;
         max-width: 100%;
-        height: auto;
+        border: 2px solid #a3c4c1;
+        border-radius: 6px;
+        overflow: hidden;
     }
 }
