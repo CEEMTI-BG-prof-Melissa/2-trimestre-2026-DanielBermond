@@ -165,5 +165,10 @@ footer {
         width: 100%;
         max-width: 300px;
         margin-bottom: 15px;
+
+    .foto-personagem {
+        width: 100%;
+        max-width: 300px;
+        margin-bottom: 15px;
     }
 }
