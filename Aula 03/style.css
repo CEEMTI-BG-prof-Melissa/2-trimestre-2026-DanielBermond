@@ -1,0 +1,32 @@
+h1::before {
+    content:"😁";
+}
+
+p::after {
+    content:"✍";
+}
+
+.bio::first-letter {
+    font-size: 25px;
+    color: blue;
+}
+
+p::first-line {
+    font-weight: bold;
+}
+
+body::selection {
+    color: rgb(0, 167, 255);
+}
+
+input::placeholder {
+    font-style: italic;
+}
+
+li::marker {
+    color: rgb(128,0,128);
+}
+
+li::marker {
+    font-size: 25px;
+}
